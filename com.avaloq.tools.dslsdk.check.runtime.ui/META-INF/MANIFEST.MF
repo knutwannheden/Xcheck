@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: com.avaloq.tools.dslsdk.check.runtime.ui
+Bundle-SymbolicName: com.avaloq.tools.dslsdk.check.runtime.ui;singleton:=true
+Bundle-Version: 1.5.2.qualifier
+Bundle-Activator: com.avaloq.tools.dslsdk.check.runtime.ui.internal.Activator
+Bundle-Vendor: Avaloq License AG
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.xtext.ui,
+ com.avaloq.tools.dslsdk.check.runtime.core
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-ActivationPolicy: lazy
+Import-Package: org.apache.log4j
+Export-Package: com.avaloq.tools.dslsdk.check.runtime.ui.quickfix,
+ com.avaloq.tools.dslsdk.check.runtime.ui.validation

@@ -1,0 +1,107 @@
+/*
+ * Copyright (c) Avaloq Licence AG
+ * Schwerzistrasse 6, 8807 Freienbach, Switzerland, http://www.avaloq.com
+ * All Rights Reserved.
+ *
+ * This software is the confidential and proprietary information of Avaloq License AG.
+ * You shall not disclose whole or parts of it and shall use it only in accordance with the terms of the
+ * license agreement you entered into with Avaloq License AG.
+ */
+
+import xtext;
+import ecore;
+
+extension org::eclipse::xtend::util::stdlib::io;
+
+// Post-processor for the Ddic language
+process(GeneratedMetamodel this):
+    let package = (EPackage) ePackage:
+    let grammar = (Grammar) eContainer:
+
+   // Perform other Model transformations
+   package.transform(grammar)
+;
+
+// transforms the given EMF Ecore model
+EPackage transform(ecore::EPackage this, Grammar grammar):
+   this.eAllContents.typeSelect(EClass).internalTransform(this, grammar) ->
+   this
+;
+
+private internalTransform(ecore::EClass this, ecore::EPackage package, Grammar grammar):
+    switch {
+        case (name == 'CheckCatalog') : {
+            this.addUnboundedOperation('getAllChecks', package.lookupClass('Check'))
+        }
+        case (name == 'Documented') : {
+            this.addDerivedAttribute('description', 'EString'.lookupEcoreDataType())
+        }
+        case (name == 'ImplicitlyNamed') : {
+            this.addDerivedAttribute('name', 'EString'.lookupEcoreDataType())
+        }
+        case (name == 'Check') : {
+            this.addDerivedAttribute('message', 'EString'.lookupEcoreDataType())
+        }
+        default: null
+    }
+;
+
+private internalTransform(ecore::EObject this, Grammar grammar):
+    null
+;
+
+// Add a derived EAttribute with specified attrName and type to this EClass.
+// A derived EAttribute is derived, volatile, transient and not changable.
+EAttribute addDerivedAttribute(EClass this, String attrName, EDataType type) :
+    let attribute = new EAttribute :
+        attribute.setName(attrName)
+        -> attribute.setEType(type)
+        -> attribute.setDerived(true)
+        -> attribute.setVolatile(true)
+        -> attribute.setTransient(true)
+        -> attribute.setChangeable(false)
+        -> this.eStructuralFeatures.add(attribute)
+        -> attribute
+;
+
+EOperation addUnboundedOperation (EClass this, String name, EClassifier returnType) :
+   let operation = newOperation (name, returnType) :
+       operation.setUpperBound(-1)
+       -> operation
+;
+
+// Finds the class named name in this EPackage.
+EClass lookupClass(EPackage this, String name) :
+    this.eClassifiers.typeSelect(EClass).selectFirst(c|c.name == name)
+;
+
+//Finds the class named className in the package packageName in this grammar
+EClass lookupClass(Grammar this, String packageName, String className) :
+    let package = this.lookupEPackages().selectFirst(p|p.name == packageName) :
+        (package != null
+            ?  lookupClass(package, className)
+            : error("lookupClass: no such package \"" + packageName + "\"")
+         )
+;
+
+private EOperation newOperation(EClass owner, String name, EClassifier type) :
+    let operation = new EOperation :
+    operation.setName(name)
+    -> operation.setEType(type)
+    -> owner.eOperations.add(operation)
+    -> operation
+;
+
+// Finds all ePackages imported in this Grammar.
+List[EPackage] lookupEPackages (Grammar this) :
+    metamodelDeclarations.ePackage
+;
+
+// returns the ECore datatype corresponding to the given name.
+// Supported type names are "EString", "EInt", "EIntegerObject", "EBoolean", "EBooleanObject", "EChar", "ELong", "EShort", "EDouble", "EDate", "EFloat"
+// The recommanded syntax is e.g. "EString".lookupEcoreDataType()
+EDataType lookupEcoreDataType(String typeName):
+    JAVA com.avaloq.tools.dslsdk.check.TransformUtil.mapType(java.lang.String)
+;
+
+/* Copyright (c) Avaloq License AG */

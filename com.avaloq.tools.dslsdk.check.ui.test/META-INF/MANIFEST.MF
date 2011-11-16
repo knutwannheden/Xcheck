@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: com.avaloq.tools.dslsdk.check.ui.test
+Bundle-SymbolicName: com.avaloq.tools.dslsdk.check.ui.test
+Bundle-Version: 1.5.2.qualifier
+Bundle-Vendor: Avaloq Licence AG
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.swtbot.go,
+ org.eclipse.xtext.junit4,
+ com.google.collect,
+ com.avaloq.tools.dslsdk.check.ui,
+ com.google.inject,
+ com.avaloq.test.core,
+ com.avaloq.tools.dslsdk.check.core.test
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Export-Package: com.avaloq.tools.dslsdk.check.ui.test
+Import-Package: org.eclipse.core.resources,
+ org.eclipse.jdt.core,
+ org.eclipse.ui.actions,
+ org.eclipse.xtext.ui.util

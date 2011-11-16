@@ -1,0 +1,21 @@
+«IMPORT com::avaloq::tools::dslsdk::check::ui::wizard»
+
+«DEFINE main FOR CheckProjectInfo»
+«FILE this.path + this.catalogName + ".check" -»
+package «this.packageName»
+
+«IF this.defaultPackageImport != null-»
+import «this.defaultPackageImport».* «REM»package where top-level grammar rule interfaces are defined«ENDREM»
+«ENDIF»
+
+/**
+ *  Check catalog for «this.grammar.name»
+ */
+catalog «this.catalogName»
+for grammar «this.grammar.name» {
+
+  // Add categories and checks
+
+}
+«ENDFILE»
+«ENDDEFINE»

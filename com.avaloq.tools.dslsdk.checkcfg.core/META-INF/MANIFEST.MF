@@ -1,0 +1,41 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: com.avaloq.tools.dslsdk.checkcfg.core
+Bundle-Vendor: Avaloq Licence AG
+Bundle-Version: 1.5.2.qualifier
+Bundle-SymbolicName: com.avaloq.tools.dslsdk.checkcfg.core; singleton:=true
+Bundle-ActivationPolicy: lazy
+Require-Bundle: org.apache.log4j,
+ org.eclipse.xtext,
+ org.eclipse.xtext.generator;resolution:=optional,
+ org.eclipse.xtext.util,
+ org.eclipse.emf.ecore,
+ org.eclipse.emf.common,
+ org.eclipse.emf.mwe2.launch;resolution:=optional,
+ org.eclipse.osgi,
+ org.antlr.runtime,
+ org.eclipse.core.runtime,
+ org.eclipse.core.resources,
+ org.eclipse.xtext.xbase;visibility:=reexport,
+ org.eclipse.xtext.common.types,
+ org.eclipse.xtext.xbase.lib,
+ org.eclipse.xtext.xtend2.lib,
+ com.avaloq.tools.dslsdk.check.core,
+ com.avaloq.acs.xtext.generator;resolution:=optional,
+ org.apache.commons.logging;resolution:=optional
+Import-Package: org.apache.log4j,
+ org.eclipse.xtext.xbase.lib,
+ org.eclipse.xtext.xtend2.lib
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Export-Package: com.avaloq.tools.dslsdk.checkcfg,
+ com.avaloq.tools.dslsdk.checkcfg.services,
+ com.avaloq.tools.dslsdk.checkcfg.parseTreeConstruction,
+ com.avaloq.tools.dslsdk.checkcfg.parser.antlr,
+ com.avaloq.tools.dslsdk.checkcfg.parser.antlr.internal,
+ com.avaloq.tools.dslsdk.checkcfg.validation,
+ com.avaloq.tools.dslsdk.checkcfg.checkcfg,
+ com.avaloq.tools.dslsdk.checkcfg.checkcfg.impl,
+ com.avaloq.tools.dslsdk.checkcfg.checkcfg.util,
+ com.avaloq.tools.dslsdk.checkcfg.formatting,
+ com.avaloq.tools.dslsdk.checkcfg.jvmmodel
+
