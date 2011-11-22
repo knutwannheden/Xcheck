@@ -35,4 +35,3 @@ public class CheckExpressionHelper extends XExpressionHelper {
 
 }
 
-/* Copyright (c) Avaloq License AG */

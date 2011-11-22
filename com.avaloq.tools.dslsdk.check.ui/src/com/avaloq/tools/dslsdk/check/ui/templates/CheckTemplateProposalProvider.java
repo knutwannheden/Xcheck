@@ -49,4 +49,3 @@ public class CheckTemplateProposalProvider extends DefaultTemplateProposalProvid
   }
 }
 
-/* Copyright (c) Avaloq License AG */

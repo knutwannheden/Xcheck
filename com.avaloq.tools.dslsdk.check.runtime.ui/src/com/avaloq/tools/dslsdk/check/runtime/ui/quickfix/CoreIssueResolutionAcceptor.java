@@ -53,4 +53,3 @@ public class CoreIssueResolutionAcceptor implements ICoreIssueResolutionAcceptor
 
 }
 
-/* Copyright (c) Avaloq License AG */

@@ -51,4 +51,3 @@ public class CheckCfgTypeProvider extends XbaseTypeProvider {
 }
 // CHECKSTYLE:ON
 
-/* Copyright (c) Avaloq License AG */

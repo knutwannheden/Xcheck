@@ -277,4 +277,3 @@ public final class CheckWizardTestUtil {
 
 }
 
-/* Copyright (c) Avaloq License AG */

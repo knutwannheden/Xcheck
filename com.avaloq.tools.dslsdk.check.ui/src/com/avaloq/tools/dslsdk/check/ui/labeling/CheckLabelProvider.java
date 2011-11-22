@@ -123,4 +123,3 @@ public class CheckLabelProvider extends DefaultEObjectLabelProvider {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

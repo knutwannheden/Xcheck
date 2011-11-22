@@ -499,4 +499,4 @@ public class NewCheckCatalogWizardPage extends NewTypeWizardPage {
   }
 }
 
-/* Copyright (c) Avaloq License AG */
+

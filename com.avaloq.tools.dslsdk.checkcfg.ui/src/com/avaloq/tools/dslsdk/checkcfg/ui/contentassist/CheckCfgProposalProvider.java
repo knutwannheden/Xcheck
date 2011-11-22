@@ -50,4 +50,3 @@ public class CheckCfgProposalProvider extends AbstractCheckCfgProposalProvider {
 
 }
 
-/* Copyright (c) Avaloq License AG */

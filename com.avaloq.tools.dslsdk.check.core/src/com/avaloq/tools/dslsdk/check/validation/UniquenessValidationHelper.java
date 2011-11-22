@@ -89,4 +89,3 @@ public class UniquenessValidationHelper<T extends EObject> {
 
 }
 
-/* Copyright (c) Avaloq License AG */

@@ -118,4 +118,3 @@ public class CheckTypeProvider extends XbaseTypeProvider {
 }
 // CHECKSTYLE:ON
 
-/* Copyright (c) Avaloq License AG */

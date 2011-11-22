@@ -174,4 +174,3 @@ public abstract class AbstractCheckExtensionUtil {
 
 }
 
-/* Copyright (c) Avaloq License AG */

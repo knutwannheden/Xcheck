@@ -43,4 +43,3 @@ public class CheckHighlightingConfiguration extends XbaseHighlightingConfigurati
 
 }
 
-/* Copyright (c) Avaloq License AG */

@@ -52,4 +52,3 @@ public class Messages extends NLS {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

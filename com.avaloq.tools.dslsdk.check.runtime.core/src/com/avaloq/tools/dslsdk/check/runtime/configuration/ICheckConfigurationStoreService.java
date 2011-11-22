@@ -34,4 +34,3 @@ public interface ICheckConfigurationStoreService {
 
 }
 
-/* Copyright (c) Avaloq License AG */

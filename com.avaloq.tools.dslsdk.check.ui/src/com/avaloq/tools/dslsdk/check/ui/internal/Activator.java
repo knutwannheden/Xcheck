@@ -20,4 +20,3 @@ public class Activator extends CheckActivator {
 
 }
 
-/* Copyright (c) Avaloq License AG */

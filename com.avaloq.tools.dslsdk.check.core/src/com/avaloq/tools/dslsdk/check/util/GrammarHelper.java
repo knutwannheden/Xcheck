@@ -114,4 +114,3 @@ public class GrammarHelper {
 
 }
 
-/* Copyright (c) Avaloq License AG */

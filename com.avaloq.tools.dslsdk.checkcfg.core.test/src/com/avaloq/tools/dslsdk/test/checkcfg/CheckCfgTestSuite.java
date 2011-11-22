@@ -24,4 +24,3 @@ public class CheckCfgTestSuite {
 
 }
 
-/* Copyright (c) Avaloq License AG */

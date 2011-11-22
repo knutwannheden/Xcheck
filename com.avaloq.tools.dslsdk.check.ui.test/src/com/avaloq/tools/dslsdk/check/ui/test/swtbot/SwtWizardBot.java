@@ -110,4 +110,3 @@ public class SwtWizardBot extends SwtWorkbenchBot {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

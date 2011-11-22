@@ -89,4 +89,3 @@ public class NewCheckCatalogWizard extends XtextNewProjectWizard {
 
 }
 
-/* Copyright (c) Avaloq License AG */

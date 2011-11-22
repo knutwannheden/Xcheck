@@ -20,4 +20,3 @@ import org.junit.runners.Suite;
 @Suite.SuiteClasses({CheckProjectWizardTest.class, CheckCatalogWizardTest.class})
 public class CheckUiTestSuite {}
 
-/* Copyright (c) Avaloq License AG */

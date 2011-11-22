@@ -132,4 +132,3 @@ public class CheckProjectInfo extends DefaultProjectInfo {
     return Iterables.concat(Collections.singleton(grammarAccessHelper.getBundleSymbolicName()), grammarAccessHelper.getRequiredBundleSymbolicNames());
   }
 }
-/* Copyright (c) Avaloq License AG */

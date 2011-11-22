@@ -31,4 +31,3 @@ public class CheckAntlrTokenToAttributeIdMapper extends XbaseTokenToAttributeIdM
   }
 }
 
-/* Copyright (c) Avaloq License AG */

@@ -19,4 +19,3 @@ public class CheckCfgValueConverterService extends XbaseValueConverterService {
 
 }
 
-/* Copyright (c) Avaloq License AG */

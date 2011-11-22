@@ -58,4 +58,3 @@ public class BadLocationException extends Exception {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

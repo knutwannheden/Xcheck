@@ -120,4 +120,3 @@ public class CheckOutlineTreeProvider extends DefaultOutlineTreeProvider {
 
 }
 
-/* Copyright (c) Avaloq License AG */

@@ -107,4 +107,3 @@ public class CheckProjectCreator extends AbstractPluginProjectCreator { // exten
   }
 
 }
-/* Copyright (c) Avaloq License AG */

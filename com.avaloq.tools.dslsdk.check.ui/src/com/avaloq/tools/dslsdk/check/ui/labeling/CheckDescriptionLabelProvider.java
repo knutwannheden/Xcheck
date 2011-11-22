@@ -50,4 +50,3 @@ public class CheckDescriptionLabelProvider extends DefaultDescriptionLabelProvid
 
 }
 
-/* Copyright (c) Avaloq License AG */

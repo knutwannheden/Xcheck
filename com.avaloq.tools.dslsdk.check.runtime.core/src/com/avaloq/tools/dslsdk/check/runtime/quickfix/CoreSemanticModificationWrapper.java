@@ -45,4 +45,3 @@ public class CoreSemanticModificationWrapper implements ICoreModification {
 
 }
 
-/* Copyright (c) Avaloq License AG */

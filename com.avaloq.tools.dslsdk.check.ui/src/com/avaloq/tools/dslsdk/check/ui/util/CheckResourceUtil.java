@@ -148,4 +148,3 @@ public class CheckResourceUtil {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

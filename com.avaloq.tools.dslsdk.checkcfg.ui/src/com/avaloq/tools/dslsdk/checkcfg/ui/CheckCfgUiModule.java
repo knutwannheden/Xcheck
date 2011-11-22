@@ -52,4 +52,3 @@ public class CheckCfgUiModule extends com.avaloq.tools.dslsdk.checkcfg.ui.Abstra
   }
 }
 
-/* Copyright (c) Avaloq License AG */

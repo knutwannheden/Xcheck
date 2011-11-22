@@ -63,4 +63,3 @@ public class CoreIssueResolution {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

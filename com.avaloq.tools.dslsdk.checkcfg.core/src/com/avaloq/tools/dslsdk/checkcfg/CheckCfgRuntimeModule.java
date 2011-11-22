@@ -68,4 +68,3 @@ public class CheckCfgRuntimeModule extends com.avaloq.tools.dslsdk.checkcfg.Abst
   }
 }
 
-/* Copyright (c) Avaloq License AG */

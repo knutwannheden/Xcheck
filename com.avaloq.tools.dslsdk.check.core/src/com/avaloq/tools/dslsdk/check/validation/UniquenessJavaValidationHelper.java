@@ -101,4 +101,3 @@ public class UniquenessJavaValidationHelper<T extends EObject> extends Uniquenes
 
 }
 
-/* Copyright (c) Avaloq License AG */

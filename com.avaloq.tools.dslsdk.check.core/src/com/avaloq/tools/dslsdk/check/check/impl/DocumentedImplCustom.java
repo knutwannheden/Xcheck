@@ -36,4 +36,3 @@ public class DocumentedImplCustom extends DocumentedImpl {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

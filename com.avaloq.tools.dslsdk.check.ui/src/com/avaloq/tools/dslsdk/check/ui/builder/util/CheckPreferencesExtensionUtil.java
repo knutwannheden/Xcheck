@@ -174,4 +174,3 @@ public final class CheckPreferencesExtensionUtil extends AbstractCheckExtensionU
 
 }
 
-/* Copyright (c) Avaloq License AG */

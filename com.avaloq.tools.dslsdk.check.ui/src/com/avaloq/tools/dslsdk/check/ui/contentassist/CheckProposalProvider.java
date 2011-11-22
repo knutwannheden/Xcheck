@@ -169,4 +169,3 @@ public class CheckProposalProvider extends AbstractCheckProposalProvider {
 
 }
 
-/* Copyright (c) Avaloq License AG */

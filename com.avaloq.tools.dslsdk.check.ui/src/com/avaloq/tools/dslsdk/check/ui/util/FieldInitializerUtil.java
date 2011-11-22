@@ -105,4 +105,3 @@ public class FieldInitializerUtil {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

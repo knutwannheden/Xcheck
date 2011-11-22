@@ -128,4 +128,4 @@ public class CheckCfgFormatter extends XbaseFormatter {
   // private void configureConfiguredParameter(final FormattingConfig c, final ConfiguredParameterElements elements) {}
 }
 
-/* Copyright (c) Avaloq License AG */
+

@@ -35,4 +35,3 @@ public interface IRegion {
    */
   int getOffset();
 }
-/* Copyright (c) Avaloq License AG */

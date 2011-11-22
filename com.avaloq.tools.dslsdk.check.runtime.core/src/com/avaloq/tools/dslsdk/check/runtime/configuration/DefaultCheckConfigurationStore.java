@@ -107,4 +107,3 @@ public class DefaultCheckConfigurationStore implements ICheckConfigurationStore 
 
 }
 
-/* Copyright (c) Avaloq License AG */

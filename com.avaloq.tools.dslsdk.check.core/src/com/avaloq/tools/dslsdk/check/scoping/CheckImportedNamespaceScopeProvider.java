@@ -154,4 +154,3 @@ public class CheckImportedNamespaceScopeProvider extends XbaseImportedNamespaceS
   }
 }
 
-/* Copyright (c) Avaloq License AG */

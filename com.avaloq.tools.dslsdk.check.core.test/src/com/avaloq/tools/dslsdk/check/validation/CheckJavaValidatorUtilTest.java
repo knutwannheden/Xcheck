@@ -189,4 +189,3 @@ public class CheckJavaValidatorUtilTest extends TestCase {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

@@ -203,4 +203,3 @@ public class CheckImportingTypesProposalProvider extends JdtTypesProposalProvide
 
 }
 
-/* Copyright (c) Avaloq License AG */

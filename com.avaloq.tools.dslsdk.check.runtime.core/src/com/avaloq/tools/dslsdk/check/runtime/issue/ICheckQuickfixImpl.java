@@ -48,4 +48,3 @@ public interface ICheckQuickfixImpl {
 
 }
 
-/* Copyright (c) Avaloq License AG */

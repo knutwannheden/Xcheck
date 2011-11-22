@@ -18,4 +18,3 @@ public class CheckCfgDescriptionLabelProvider extends DefaultDescriptionLabelPro
 
 }
 
-/* Copyright (c) Avaloq License AG */

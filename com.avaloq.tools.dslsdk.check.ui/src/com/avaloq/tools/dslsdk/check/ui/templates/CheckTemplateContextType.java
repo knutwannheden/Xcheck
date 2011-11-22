@@ -26,4 +26,3 @@ public class CheckTemplateContextType extends XtextTemplateContextType {
 
 }
 
-/* Copyright (c) Avaloq License AG */

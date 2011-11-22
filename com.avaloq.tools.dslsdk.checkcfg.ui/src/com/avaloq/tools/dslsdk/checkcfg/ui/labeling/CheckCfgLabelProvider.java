@@ -25,4 +25,3 @@ public class CheckCfgLabelProvider extends DefaultEObjectLabelProvider {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

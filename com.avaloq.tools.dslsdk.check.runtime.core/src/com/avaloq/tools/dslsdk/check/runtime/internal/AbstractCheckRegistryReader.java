@@ -115,4 +115,3 @@ abstract class AbstractCheckRegistryReader extends RegistryReader {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

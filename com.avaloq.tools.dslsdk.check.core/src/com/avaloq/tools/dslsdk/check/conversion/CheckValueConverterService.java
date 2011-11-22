@@ -25,4 +25,3 @@ public class CheckValueConverterService extends XbaseValueConverterService {
 
 }
 
-/* Copyright (c) Avaloq License AG */

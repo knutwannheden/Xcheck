@@ -111,4 +111,3 @@ public class CheckImages {
 
 }
 
-/* Copyright (c) Avaloq License AG */

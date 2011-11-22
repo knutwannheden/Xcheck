@@ -152,4 +152,3 @@ public class CheckCfgQuickfixProvider extends DefaultQuickfixProvider {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

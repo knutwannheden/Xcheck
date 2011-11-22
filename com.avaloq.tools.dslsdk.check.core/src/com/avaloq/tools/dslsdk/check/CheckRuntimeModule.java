@@ -105,4 +105,3 @@ public class CheckRuntimeModule extends com.avaloq.tools.dslsdk.check.AbstractCh
 
 }
 
-/* Copyright (c) Avaloq License AG */

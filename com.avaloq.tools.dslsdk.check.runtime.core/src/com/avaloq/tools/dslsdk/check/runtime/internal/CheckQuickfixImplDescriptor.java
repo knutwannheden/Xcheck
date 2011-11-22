@@ -58,4 +58,3 @@ public class CheckQuickfixImplDescriptor implements Provider<ICoreQuickfixProvid
 
 }
 
-/* Copyright (c) Avaloq License AG */

@@ -26,4 +26,3 @@ public class CheckConfigurationImplCustom extends CheckConfigurationImpl {
 
 }
 
-/* Copyright (c) Avaloq License AG */

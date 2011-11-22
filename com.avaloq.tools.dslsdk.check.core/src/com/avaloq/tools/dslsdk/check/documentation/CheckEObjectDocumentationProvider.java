@@ -26,4 +26,3 @@ public class CheckEObjectDocumentationProvider extends JavaDocCommentDocumentati
 
 }
 
-/* Copyright (c) Avaloq License AG */

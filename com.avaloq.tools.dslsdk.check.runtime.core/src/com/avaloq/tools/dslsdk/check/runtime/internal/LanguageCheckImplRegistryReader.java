@@ -64,4 +64,3 @@ class LanguageCheckImplRegistryReader extends AbstractCheckRegistryReader {
 
 }
 
-/* Copyright (c) Avaloq License AG */

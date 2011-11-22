@@ -17,4 +17,3 @@ package com.avaloq.tools.dslsdk.check.runtime.quickfix;
  */
 public interface ICoreQuickfixProvider {}
 
-/* Copyright (c) Avaloq License AG */

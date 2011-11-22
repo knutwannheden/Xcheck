@@ -433,4 +433,3 @@ public class DefaultCheckImpl implements ICheckImpl, ValidationMessageAcceptor {
 
 }
 
-/* Copyright (c) Avaloq License AG */

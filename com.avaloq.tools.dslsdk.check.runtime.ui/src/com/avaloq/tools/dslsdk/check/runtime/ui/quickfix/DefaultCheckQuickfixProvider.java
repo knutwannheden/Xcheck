@@ -211,4 +211,3 @@ public class DefaultCheckQuickfixProvider extends DefaultQuickfixProvider {
 
 }
 
-/* Copyright (c) Avaloq License AG */

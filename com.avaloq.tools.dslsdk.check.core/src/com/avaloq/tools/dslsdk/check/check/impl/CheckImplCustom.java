@@ -38,4 +38,3 @@ public class CheckImplCustom extends CheckImpl {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

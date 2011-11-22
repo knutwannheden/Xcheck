@@ -20,4 +20,3 @@ public class CheckCfgStandaloneSetup extends CheckCfgStandaloneSetupGenerated {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

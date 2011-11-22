@@ -88,4 +88,3 @@ public class CheckCatalogGenerator {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

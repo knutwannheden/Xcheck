@@ -47,4 +47,3 @@ public final class CheckUtil {
 
 }
 
-/* Copyright (c) Avaloq License AG */

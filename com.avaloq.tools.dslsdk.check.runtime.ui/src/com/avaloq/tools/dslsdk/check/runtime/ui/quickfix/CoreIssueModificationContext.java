@@ -76,4 +76,3 @@ public class CoreIssueModificationContext implements ICoreModificationContext {
 
 }
 
-/* Copyright (c) Avaloq License AG */

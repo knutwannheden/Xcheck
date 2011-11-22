@@ -129,4 +129,3 @@ public class CheckUiModule extends com.avaloq.tools.dslsdk.check.ui.AbstractChec
   }
 }
 
-/* Copyright (c) Avaloq License AG */

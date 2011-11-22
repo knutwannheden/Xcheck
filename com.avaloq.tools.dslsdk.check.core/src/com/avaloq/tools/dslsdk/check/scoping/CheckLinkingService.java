@@ -79,4 +79,3 @@ public class CheckLinkingService extends DefaultLinkingService {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

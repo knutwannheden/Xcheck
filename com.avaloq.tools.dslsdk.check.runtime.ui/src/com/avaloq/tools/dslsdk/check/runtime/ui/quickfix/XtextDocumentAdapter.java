@@ -193,4 +193,3 @@ public class XtextDocumentAdapter implements ICoreXtextDocument {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

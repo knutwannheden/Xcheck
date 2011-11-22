@@ -65,4 +65,3 @@ public interface ICoreIssueResolutionAcceptor {
 
 }
 
-/* Copyright (c) Avaloq License AG */

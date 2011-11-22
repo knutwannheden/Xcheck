@@ -126,4 +126,3 @@ public class CheckCfgOutlineTreeProvider extends DefaultOutlineTreeProvider {
 
 }
 
-/* Copyright (c) Avaloq License AG */

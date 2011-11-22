@@ -56,4 +56,3 @@ public class CheckImplDescriptor implements Provider<ICheckImpl>, ICheckImplDesc
 
 }
 
-/* Copyright (c) Avaloq License AG */

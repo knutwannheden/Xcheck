@@ -87,4 +87,3 @@ public class TransformUtil {
 
 }
 
-/* Copyright (c) Avaloq License AG */

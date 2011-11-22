@@ -49,4 +49,3 @@ public class CheckImplRegistryImpl implements Registry {
 
 }
 
-/* Copyright (c) Avaloq License AG */

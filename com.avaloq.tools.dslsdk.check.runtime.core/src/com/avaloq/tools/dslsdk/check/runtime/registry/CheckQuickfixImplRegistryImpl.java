@@ -49,4 +49,3 @@ public class CheckQuickfixImplRegistryImpl implements Registry {
 
 }
 
-/* Copyright (c) Avaloq License AG */

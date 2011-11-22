@@ -63,4 +63,3 @@ public class CheckDeclarativeQualifiedNameProvider extends DefaultDeclarativeQua
 
 }
 
-/* Copyright (c) Avaloq License AG */

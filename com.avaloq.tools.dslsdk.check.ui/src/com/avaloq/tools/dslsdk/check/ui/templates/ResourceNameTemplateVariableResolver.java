@@ -69,4 +69,3 @@ public class ResourceNameTemplateVariableResolver extends AbstractTemplateVariab
   }
 }
 
-/* Copyright (c) Avaloq License AG */

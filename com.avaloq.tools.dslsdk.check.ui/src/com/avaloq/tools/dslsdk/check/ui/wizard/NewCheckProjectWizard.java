@@ -67,4 +67,3 @@ public class NewCheckProjectWizard extends XtextNewProjectWizard { // extends Wi
     return projectInfo;
   }
 }
-/* Copyright (c) Avaloq License AG */

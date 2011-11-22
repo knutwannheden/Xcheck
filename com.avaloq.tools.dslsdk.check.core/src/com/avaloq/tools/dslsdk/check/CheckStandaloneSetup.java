@@ -20,4 +20,3 @@ public class CheckStandaloneSetup extends CheckStandaloneSetupGenerated {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

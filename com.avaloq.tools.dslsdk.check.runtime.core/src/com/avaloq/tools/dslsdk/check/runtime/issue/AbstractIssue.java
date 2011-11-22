@@ -82,4 +82,3 @@ public abstract class AbstractIssue implements IIssue {
 
 }
 
-/* Copyright (c) Avaloq License AG */

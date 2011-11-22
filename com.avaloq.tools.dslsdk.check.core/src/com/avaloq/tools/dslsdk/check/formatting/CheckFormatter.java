@@ -232,4 +232,3 @@ public class CheckFormatter extends XbaseFormatter {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

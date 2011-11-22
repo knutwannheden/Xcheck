@@ -19,4 +19,3 @@ public interface ICheckCatalogCreator extends IProjectCreator {
 
 }
 
-/* Copyright (c) Avaloq License AG */

@@ -68,4 +68,3 @@ public interface ICheckImpl {
 
 }
 
-/* Copyright (c) Avaloq License AG */

@@ -38,4 +38,3 @@ public class CheckCatalogImplCustom extends CheckCatalogImpl {
 
 }
 
-/* Copyright (c) Avaloq License AG */

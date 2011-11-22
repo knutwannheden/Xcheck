@@ -64,4 +64,3 @@ class LanguageCheckQuickfixImplRegistryReader extends AbstractCheckRegistryReade
 
 }
 
-/* Copyright (c) Avaloq License AG */

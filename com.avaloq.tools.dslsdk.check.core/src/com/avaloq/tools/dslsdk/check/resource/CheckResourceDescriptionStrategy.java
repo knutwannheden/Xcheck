@@ -36,4 +36,3 @@ public class CheckResourceDescriptionStrategy extends DefaultResourceDescription
 
 }
 
-/* Copyright (c) Avaloq License AG */

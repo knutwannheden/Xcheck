@@ -58,4 +58,3 @@ public class CheckCfgValidationTest extends TestCase {
 
 }
 
-/* Copyright (c) Avaloq License AG */

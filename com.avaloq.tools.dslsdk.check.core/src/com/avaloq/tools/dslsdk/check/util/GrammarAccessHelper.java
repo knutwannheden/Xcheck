@@ -37,4 +37,3 @@ public class GrammarAccessHelper extends GrammarHelper {
 
 }
 
-/* Copyright (c) Avaloq License AG */

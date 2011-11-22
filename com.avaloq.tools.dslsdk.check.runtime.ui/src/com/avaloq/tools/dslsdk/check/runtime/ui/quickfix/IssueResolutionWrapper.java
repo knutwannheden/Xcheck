@@ -54,4 +54,3 @@ public class IssueResolutionWrapper extends IssueResolution {
 
 }
 
-/* Copyright (c) Avaloq License AG */

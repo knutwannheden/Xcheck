@@ -37,4 +37,3 @@ public interface ICoreModificationContext {
 
 }
 
-/* Copyright (c) Avaloq License AG */

@@ -19,4 +19,3 @@ public enum SeverityKind {
   IGNORE
 }
 
-/* Copyright (c) Avaloq License AG */

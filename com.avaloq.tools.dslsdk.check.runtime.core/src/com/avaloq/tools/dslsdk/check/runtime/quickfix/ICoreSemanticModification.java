@@ -30,4 +30,3 @@ public interface ICoreSemanticModification {
 
 }
 
-/* Copyright (c) Avaloq License AG */

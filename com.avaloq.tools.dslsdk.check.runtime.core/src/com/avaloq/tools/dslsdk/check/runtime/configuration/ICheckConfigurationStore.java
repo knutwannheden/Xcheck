@@ -69,4 +69,3 @@ public interface ICheckConfigurationStore {
 
 }
 
-/* Copyright (c) Avaloq License AG */

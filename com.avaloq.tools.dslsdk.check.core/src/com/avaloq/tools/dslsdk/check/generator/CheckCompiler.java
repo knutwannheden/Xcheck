@@ -227,4 +227,3 @@ public class CheckCompiler extends XbaseCompiler {
 
 }
 
-/* Copyright (c) Avaloq License AG */

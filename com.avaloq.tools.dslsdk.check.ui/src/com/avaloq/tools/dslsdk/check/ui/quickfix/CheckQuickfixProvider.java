@@ -384,4 +384,3 @@ public class CheckQuickfixProvider extends DefaultQuickfixProvider {
   // }
 }
 
-/* Copyright (c) Avaloq License AG */

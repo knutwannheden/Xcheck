@@ -52,4 +52,3 @@ public class DefaultCheckValidator extends AbstractCheckValidator {
 
 }
 
-/* Copyright (c) Avaloq License AG */

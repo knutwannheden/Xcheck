@@ -116,4 +116,3 @@ public final class CheckQuickfixExtensionUtil extends AbstractCheckExtensionUtil
   }
 }
 
-/* Copyright (c) Avaloq License AG */

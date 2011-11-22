@@ -705,4 +705,3 @@ public class CheckBuilderParticipant extends BuilderParticipant {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

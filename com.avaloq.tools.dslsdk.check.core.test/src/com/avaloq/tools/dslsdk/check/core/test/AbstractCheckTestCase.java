@@ -378,4 +378,3 @@ public abstract class AbstractCheckTestCase extends TestCase {
 
 }
 
-/* Copyright (c) Avaloq License AG */

@@ -106,4 +106,3 @@ public class CheckCfgScopeProvider extends XbaseScopeProvider {
 
 }
 
-/* Copyright (c) Avaloq License AG */

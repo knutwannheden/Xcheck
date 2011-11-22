@@ -24,4 +24,3 @@ public final class CheckConstants {
   private CheckConstants() {}
 }
 
-/* Copyright (c) Avaloq License AG */

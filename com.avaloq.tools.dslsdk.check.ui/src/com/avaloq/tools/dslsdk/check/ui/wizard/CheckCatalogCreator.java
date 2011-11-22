@@ -90,4 +90,3 @@ public class CheckCatalogCreator extends WorkspaceModifyOperation implements ICh
 
 }
 
-/* Copyright (c) Avaloq License AG */

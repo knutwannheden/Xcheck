@@ -23,4 +23,3 @@ public interface ICoreIssueResolutionAcceptor2 extends ICoreIssueResolutionAccep
   // Deliberately empty
 }
 
-/* Copyright (c) Avaloq License AG */

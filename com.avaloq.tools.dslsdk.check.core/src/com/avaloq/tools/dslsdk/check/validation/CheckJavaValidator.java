@@ -703,4 +703,3 @@ public class CheckJavaValidator extends AbstractCheckJavaValidator {
 
 }
 
-/* Copyright (c) Avaloq License AG */

@@ -98,4 +98,3 @@ public class CheckHoverProvider extends XbaseHoverProvider {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

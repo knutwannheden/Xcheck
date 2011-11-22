@@ -26,4 +26,3 @@ public class Activator extends CheckCfgActivator {
 
 }
 
-/* Copyright (c) Avaloq License AG */

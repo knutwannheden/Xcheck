@@ -135,4 +135,3 @@ public class JavaDocCommentDocumentationProvider implements IEObjectDocumentatio
   }
 }
 
-/* Copyright (c) Avaloq License AG */

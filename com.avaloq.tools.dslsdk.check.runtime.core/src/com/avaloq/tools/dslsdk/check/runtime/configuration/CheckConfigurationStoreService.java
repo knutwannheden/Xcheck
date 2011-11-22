@@ -73,4 +73,3 @@ public class CheckConfigurationStoreService implements ICheckConfigurationStoreS
   }
 }
 
-/* Copyright (c) Avaloq License AG */

@@ -92,4 +92,3 @@ public class CheckProjectFactory extends PluginProjectFactory {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

@@ -28,4 +28,3 @@ public class Messages extends NLS {
   private Messages() {} // NOPMD
 }
 
-/* Copyright (c) Avaloq License AG */

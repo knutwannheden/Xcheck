@@ -89,4 +89,3 @@ public class Main {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

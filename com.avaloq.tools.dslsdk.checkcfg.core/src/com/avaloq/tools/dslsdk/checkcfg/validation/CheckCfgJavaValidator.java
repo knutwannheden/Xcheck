@@ -334,4 +334,3 @@ public class CheckCfgJavaValidator extends AbstractCheckCfgJavaValidator {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

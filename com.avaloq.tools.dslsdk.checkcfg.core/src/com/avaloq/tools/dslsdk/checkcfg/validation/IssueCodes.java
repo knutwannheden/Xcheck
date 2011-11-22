@@ -31,4 +31,3 @@ public final class IssueCodes {
 
 }
 
-/* Copyright (c) Avaloq License AG */

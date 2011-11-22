@@ -48,4 +48,3 @@ public class CheckHighlightingCalculator extends XbaseHighlightingCalculator {
 
 }
 
-/* Copyright (c) Avaloq License AG */

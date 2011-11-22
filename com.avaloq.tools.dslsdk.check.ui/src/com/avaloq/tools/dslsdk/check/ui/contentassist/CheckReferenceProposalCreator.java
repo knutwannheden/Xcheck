@@ -18,4 +18,3 @@ public class CheckReferenceProposalCreator extends XbaseReferenceProposalCreator
 
 }
 
-/* Copyright (c) Avaloq License AG */

@@ -218,4 +218,3 @@ public class CheckCfgTemplateProposalProvider extends DefaultTemplateProposalPro
 
 }
 
-/* Copyright (c) Avaloq License AG */

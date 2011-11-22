@@ -78,4 +78,3 @@ public interface IIssue {
 
 }
 
-/* Copyright (c) Avaloq License AG */

@@ -248,4 +248,3 @@ public interface ICoreXtextDocument extends IReadAccess<XtextResource>, IWriteAc
   int search(int startOffset, String findString, boolean forwardSearch, boolean caseSensitive, boolean wholeWord) throws BadLocationException;
 
 }
-/* Copyright (c) Avaloq License AG */

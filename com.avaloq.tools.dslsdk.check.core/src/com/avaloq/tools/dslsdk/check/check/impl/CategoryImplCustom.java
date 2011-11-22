@@ -30,4 +30,3 @@ public class CategoryImplCustom extends CategoryImpl {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

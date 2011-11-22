@@ -148,4 +148,3 @@ public class NewCheckProjectWizardPage extends NewTypeWizardPage {
   }
 
 }
-/* Copyright (c) Avaloq License AG */

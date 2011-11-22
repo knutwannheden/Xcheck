@@ -116,4 +116,3 @@ public final class CheckValidatorExtensionUtil extends AbstractCheckExtensionUti
   }
 }
 
-/* Copyright (c) Avaloq License AG */

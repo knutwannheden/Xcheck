@@ -27,4 +27,3 @@ public class CheckCoreTestSuite {
 
 }
 
-/* Copyright (c) Avaloq License AG */

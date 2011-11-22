@@ -38,4 +38,3 @@ public class CheckCfgLocationInFileProvider extends JvmLocationInFileProvider {
   }
 }
 
-/* Copyright (c) Avaloq License AG */

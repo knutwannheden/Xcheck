@@ -28,4 +28,3 @@ public @interface CoreFix {
   String value();
 }
 
-/* Copyright (c) Avaloq License AG */

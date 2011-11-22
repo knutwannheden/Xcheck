@@ -31,4 +31,3 @@ public interface ICoreModification {
   };
 }
 
-/* Copyright (c) Avaloq License AG */

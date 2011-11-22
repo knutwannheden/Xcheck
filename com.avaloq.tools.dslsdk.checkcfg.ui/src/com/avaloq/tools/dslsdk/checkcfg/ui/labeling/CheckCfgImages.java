@@ -69,4 +69,3 @@ public class CheckCfgImages {
 
 }
 
-/* Copyright (c) Avaloq License AG */

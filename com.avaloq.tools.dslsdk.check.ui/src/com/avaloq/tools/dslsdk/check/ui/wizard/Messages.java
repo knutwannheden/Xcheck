@@ -56,4 +56,3 @@ public final class Messages extends NLS {
 }
 // CHECKSTYLE:ON
 
-/* Copyright (c) Avaloq License AG */
