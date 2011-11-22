@@ -1,12 +1,11 @@
-/*
- * Copyright (c) Avaloq Licence AG
- * Schwerzistrasse 6, 8807 Freienbach, Switzerland, http://www.avaloq.com
- * All Rights Reserved.
- *
- * This software is the confidential and proprietary information of Avaloq License AG.
- * You shall not disclose whole or parts of it and shall use it only in accordance with the terms of the
- * license agreement you entered into with Avaloq License AG.
- */
+/*******************************************************************************
+ * Copyright (c) 2011 Avaloq Licence AG, Schwerzistrasse 6, 8807 Freienbach, 
+ * Switzerland, http://www.avaloq.com and others.
+ * All rights reserved. This program and the accompanying materials
+ * are made available under the terms of the Eclipse Public License v1.0
+ * which accompanies this distribution, and is available at
+ * http://www.eclipse.org/legal/epl-v10.html
+ *******************************************************************************/
 package com.avaloq.tools.dslsdk.check.ui;
 
 import org.eclipse.ui.plugin.AbstractUIPlugin;
